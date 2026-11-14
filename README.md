@@ -37,5 +37,5 @@ src/
 
 ## Contributors
 
-- [Orphyxz](https://github.com/Orphyxz)
+- [Aryxzing](https://github.com/Aryxzing)
 - Purvika
